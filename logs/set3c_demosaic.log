@@ -1,0 +1,5 @@
+22-07-16 20:42:38.691 : model_name:phaseformer_S_d4, image sigma:0.00%, model sigma:0.00%
+22-07-16 20:42:41.271 : ---1--> butterfly.png -- PSNR: 37.00dB
+22-07-16 20:42:43.687 : ---2--> leaves.png -- PSNR: 33.76dB
+22-07-16 20:42:46.103 : ---3--> starfish.png -- PSNR: 38.86dB
+22-07-16 20:42:46.114 : ------> Average PSNR(RGB) of (set3c) is : 36.54 dB
